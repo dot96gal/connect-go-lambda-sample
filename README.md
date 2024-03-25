@@ -1,0 +1,1 @@
+# connect-go-lambda-sample
